@@ -1,5 +1,4 @@
 bharath-hegde-everything
 ========================
 
-All of Bharath Hegde's programs and source on GitHub
-What else can you say?
+All of Bharath Hegde's programs and source that is on GitHub. What else?
